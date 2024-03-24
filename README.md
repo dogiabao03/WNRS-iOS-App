@@ -7,9 +7,9 @@
 
 ## Technical Stack
 
-* Programming Language: Swift <br>
-* UI Framework: SwiftUI <br>
-* MVVM applied
+* Programming Language: Swift. <br>
+* UI Framework: SwiftUI. <br>
+* MVVM applied.
 
 ## Application Features
 
